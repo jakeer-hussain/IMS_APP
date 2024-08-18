@@ -13,4 +13,4 @@ Install APK from release 2.0.
 
 # Final Submission Link
 
-https://drive.google.com/drive/folders/17QGXi4d-URJpO9euHc-OZyuRap9PrdjA?usp=sharing
+https://drive.google.com/drive/u/0/folders/1TJVtZBwgRPcIpMgu5TW73Fx6r2jLy-3O
